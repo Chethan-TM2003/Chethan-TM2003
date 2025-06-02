@@ -1,32 +1,31 @@
-## Hi there 👋
-<!-- Profile Header -->
-# 👋 Hi, I'm Nandan S!
+## 👋 Hi there!
 
-## 👨‍💻 About Me  
-I'm a passionate **Full Stack Web Developer** and **Java Developer** currently pursuing my **B.E. in Computer Science Engineering**. I specialize in building dynamic, scalable, and efficient web applications. I enjoy exploring new technologies, solving real-world problems through code, and crafting clean, professional designs.
+# 👨‍💻 I'm Chethan TM!
+
+## 🚀 About Me  
+I'm a passionate **Full Stack Web Developer** and **Java Developer**, currently pursuing my **B.E. in Computer Science Engineering**. I specialize in building dynamic, scalable, and efficient web applications. I enjoy exploring new technologies, solving real-world problems through code, and crafting clean, professional designs.
 
 ---
 
 <!-- Profile Views & Connect -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NandanS&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="mailto:benz.nandan.s@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://linkedin.com/in/nandansiddappa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/NANDAN-S-GMIT/"><img src="https://img.shields.io/github/followers/NandanS?label=Follow&style=social" alt="GitHub"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Chethan-TM2003&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="mailto:chethantm174@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/chethan-tm-040b18228"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/Chethan-TM2003"><img src="https://img.shields.io/github/followers/Chethan-TM2003?label=Follow&style=social" alt="GitHub Followers"/></a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 What I’m Doing
 
-- 🔭 I’m currently working on **Full Stack Java Development Projects**
-- 🌱 Learning **Advanced Java, AI Projects, Cloud (AWS/GCP), Docker & Kubernetes**
-- 👯 I’m looking to collaborate on **Open Source, AI & Full Stack Projects**
+- 🔭 Currently working on **Full Stack Java Development Projects**
+- 🌱 Learning **Advanced Java, AI, Cloud (AWS/GCP), Docker & Kubernetes**
+- 👯 Looking to collaborate on **Open Source, AI & Full Stack Projects**
 - 💬 Ask me about **Java, React, Python, Full Stack Development**
-- 📫 Reach me at: **benz.nandan.s@gmail.com**
+- 📫 Reach me at: **chethantm174@gmail.com**
 
 ---
-
 
 ## 🛠️ Skills & Technologies  
 
@@ -37,21 +36,18 @@ I'm a passionate **Full Stack Web Developer** and **Java Developer** currently p
 `React` `HTML` `CSS` `Bootstrap` `AOS Animations` `Wix` `WordPress`  
 
 **Back-End:**  
-`Node.js` `Django` `MySQL`  
+`Node.js` `MySQL`  
 
 **Tools & Frameworks:**  
-`Spring Boot (learning)` `Tkinter` `OpenCV`  `Adobe Photoshop`
+`VS Code` `Eclipse` `IntelliJ IDEA` `Spring Boot (learning)` `Tkinter` `OpenCV` `Adobe Photoshop`
 
 ---
 
-## 🛠️ Tech Stack
+## 🔧 Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  
-  
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -73,56 +69,39 @@ I'm a passionate **Full Stack Web Developer** and **Java Developer** currently p
 </p>
 
 ---
+
 ## 🏆 Certifications  
-- NPTEL: Programming in Java  
-- Udemy: ChatGPT Prompt Engineering  
-- Google Cloud: Introduction to Generative AI, Prompt Design in Vertex AI  
-- GenAIus 2024 Hackathon Participation  
+
+- Udemy: Java Programming  
+- Udemy: Full Stack Web Development  
+- Abeyaantrix Edusoft: Full Stack Java Development  
 
 ---
 
 ## 📚 Projects  
-- **Full Stack Web Development Internship** at Abeyaantrix Edusoft  
-- **Blood Bank Management System**  
-- **Image-Based Thyroid Disorder Identification**  
-- **Student Result Management System**  
-- **React Project Hub (Calculator, To-Do List, Color Picker, and more)**  
-- **Advanced Tkinter Image Filter App with OpenCV**
+
+- **Hotel Management System**  
+- **Portfolio Website**  
+- **Food Ordering System**  
+- **Water Complaints System**  
+- **Smart City Traveler**  
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NANDAN-S-GMIT&show_icons=true&theme=radical" alt="Nandan's GitHub stats"/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NANDAN-S-GMIT&theme=radical" alt="GitHub Streak"/>
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NANDAN-S-GMIT&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Chethan-TM2003&show_icons=true&theme=radical" alt="Chethan's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chethan-TM2003&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chethan-TM2003&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
 
-## 📫 Connect with me
+## 📫 Connect with Me
 
 <p align="left">
-  <a href="mailto:benz.nandan.s@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/nandansiddappa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/NANDAN-S-GMIT"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:chethantm174@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/chethan-tm-040b18228"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Chethan-TM2003"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-
----
-<!--
-**Chethan-TM2003/Chethan-TM2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
