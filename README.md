@@ -22,13 +22,13 @@ I'm a passionate **Full Stack Web Developer** and **Java Developer**, currently 
 Java, Python, JavaScript, PHP
 
 **Frontend:**  
-HTML, CSS, Bootstrap, React, Wix, WordPress
+HTML,HTML5, CSS3, Bootstrap, React.js, Javascript 
 
 **Backend & Database:**  
-Node.js, MySQL
+Node.js, MySQL, SQL
 
 **Tools & Frameworks:**  
-VS Code, Eclipse, IntelliJ IDEA, Spring Boot (learning), Tkinter, OpenCV, Adobe Photoshop
+VS Code, Eclipse, IntelliJ IDEA, Spring Boot (learning), Adobe Photoshop
 
 ---
 
